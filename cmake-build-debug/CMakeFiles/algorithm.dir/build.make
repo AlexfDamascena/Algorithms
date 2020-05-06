@@ -57,27 +57,27 @@ include CMakeFiles/algorithm.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/algorithm.dir/flags.make
 
-CMakeFiles/algorithm.dir/horner's_method.cpp.o: CMakeFiles/algorithm.dir/flags.make
-CMakeFiles/algorithm.dir/horner's_method.cpp.o: ../horner's_method.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alexdamascena/Desktop/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/algorithm.dir/horner's_method.cpp.o"
-	/usr/local/bin/g++-5  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/algorithm.dir/horner's_method.cpp.o" -c "/Users/alexdamascena/Desktop/algorithm/horner's_method.cpp"
+CMakeFiles/algorithm.dir/fixed_point.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/fixed_point.cpp.o: ../fixed_point.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/alexdamascena/Desktop/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/algorithm.dir/fixed_point.cpp.o"
+	/usr/local/bin/g++-5  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/fixed_point.cpp.o -c /Users/alexdamascena/Desktop/algorithm/fixed_point.cpp
 
-CMakeFiles/algorithm.dir/horner's_method.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/horner's_method.cpp.i"
-	/usr/local/bin/g++-5 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/alexdamascena/Desktop/algorithm/horner's_method.cpp" > "CMakeFiles/algorithm.dir/horner's_method.cpp.i"
+CMakeFiles/algorithm.dir/fixed_point.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/fixed_point.cpp.i"
+	/usr/local/bin/g++-5 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/alexdamascena/Desktop/algorithm/fixed_point.cpp > CMakeFiles/algorithm.dir/fixed_point.cpp.i
 
-CMakeFiles/algorithm.dir/horner's_method.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/horner's_method.cpp.s"
-	/usr/local/bin/g++-5 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/alexdamascena/Desktop/algorithm/horner's_method.cpp" -o "CMakeFiles/algorithm.dir/horner's_method.cpp.s"
+CMakeFiles/algorithm.dir/fixed_point.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/fixed_point.cpp.s"
+	/usr/local/bin/g++-5 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/alexdamascena/Desktop/algorithm/fixed_point.cpp -o CMakeFiles/algorithm.dir/fixed_point.cpp.s
 
 # Object files for target algorithm
 algorithm_OBJECTS = \
-"CMakeFiles/algorithm.dir/horner's_method.cpp.o"
+"CMakeFiles/algorithm.dir/fixed_point.cpp.o"
 
 # External object files for target algorithm
 algorithm_EXTERNAL_OBJECTS =
 
-algorithm: CMakeFiles/algorithm.dir/horner's_method.cpp.o
+algorithm: CMakeFiles/algorithm.dir/fixed_point.cpp.o
 algorithm: CMakeFiles/algorithm.dir/build.make
 algorithm: CMakeFiles/algorithm.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/alexdamascena/Desktop/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable algorithm"

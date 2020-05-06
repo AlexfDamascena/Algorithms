@@ -3,4 +3,4 @@ project(algorithm)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(algorithm horner's_method.cpp)
+add_executable(algorithm fixed_point.cpp)

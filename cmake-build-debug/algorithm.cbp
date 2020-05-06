@@ -90,7 +90,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/alexdamascena/Desktop/algorithm/horner&apos;s_method.cpp">
+		<Unit filename="/Users/alexdamascena/Desktop/algorithm/fixed_point.cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/alexdamascena/Desktop/algorithm/CMakeLists.txt">

@@ -123,32 +123,32 @@ algorithm/fast:
 	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/build
 .PHONY : algorithm/fast
 
-horner's_method.o: horner's_method.cpp.o
+fixed_point.o: fixed_point.cpp.o
 
-.PHONY : horner's_method.o
+.PHONY : fixed_point.o
 
 # target to build an object file
-horner's_method.cpp.o:
-	$(MAKE) -f CMakeFiles/algorithm.dir/build.make "CMakeFiles/algorithm.dir/horner's_method.cpp.o"
-.PHONY : horner's_method.cpp.o
+fixed_point.cpp.o:
+	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/fixed_point.cpp.o
+.PHONY : fixed_point.cpp.o
 
-horner's_method.i: horner's_method.cpp.i
+fixed_point.i: fixed_point.cpp.i
 
-.PHONY : horner's_method.i
+.PHONY : fixed_point.i
 
 # target to preprocess a source file
-horner's_method.cpp.i:
-	$(MAKE) -f CMakeFiles/algorithm.dir/build.make "CMakeFiles/algorithm.dir/horner's_method.cpp.i"
-.PHONY : horner's_method.cpp.i
+fixed_point.cpp.i:
+	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/fixed_point.cpp.i
+.PHONY : fixed_point.cpp.i
 
-horner's_method.s: horner's_method.cpp.s
+fixed_point.s: fixed_point.cpp.s
 
-.PHONY : horner's_method.s
+.PHONY : fixed_point.s
 
 # target to generate assembly for a file
-horner's_method.cpp.s:
-	$(MAKE) -f CMakeFiles/algorithm.dir/build.make "CMakeFiles/algorithm.dir/horner's_method.cpp.s"
-.PHONY : horner's_method.cpp.s
+fixed_point.cpp.s:
+	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/fixed_point.cpp.s
+.PHONY : fixed_point.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... algorithm"
-	@echo "... horner's_method.o"
-	@echo "... horner's_method.i"
-	@echo "... horner's_method.s"
+	@echo "... fixed_point.o"
+	@echo "... fixed_point.i"
+	@echo "... fixed_point.s"
 .PHONY : help
 
 

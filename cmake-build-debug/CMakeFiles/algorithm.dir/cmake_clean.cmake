@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/algorithm.dir/horner's_method.cpp.o"
+  "CMakeFiles/algorithm.dir/fixed_point.cpp.o"
   "algorithm"
   "algorithm.pdb"
 )

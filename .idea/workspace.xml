@@ -5,13 +5,28 @@
       <config projectName="algorithm" targetName="algorithm" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-D CMAKE_CXX_COMPILER=/usr/local/bin/g++-5" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da023ea1-2851-4e34-bd8f-6041f9b3e9c5" name="Default Changelist" comment="" />
+    <list default="true" id="da023ea1-2851-4e34-bd8f-6041f9b3e9c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/algorithm.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/algorithm" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/algorithm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/algorithm.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/algorithm.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/algorithm.dSYM/Contents/Resources/DWARF/algorithm" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/algorithm.dSYM/Contents/Resources/DWARF/algorithm" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +36,11 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bBI21GID2DVGW8aFBPsy6A6oO2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
@@ -50,6 +70,13 @@
       <option name="presentableId" value="Default" />
       <updated>1588098848158</updated>
       <workItem from="1588098849611" duration="35000" />
+      <workItem from="1588098912338" duration="9943000" />
+      <workItem from="1588367576747" duration="535000" />
+      <workItem from="1588486808220" duration="5130000" />
+      <workItem from="1588543050542" duration="3766000" />
+      <workItem from="1588567054550" duration="4354000" />
+      <workItem from="1588658845940" duration="1678000" />
+      <workItem from="1588714677252" duration="196000" />
     </task>
     <servers />
   </component>
@@ -57,29 +84,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="903" height="164" key="GridCell.Tab.0.bottom" timestamp="1588098883894">
+    <state x="698" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588532284492">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="698" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1588532284492" />
+    <state x="698" y="142" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.732@0.23.1280.732" timestamp="1588110414050" />
+    <state width="598" height="165" key="GridCell.Tab.0.bottom" timestamp="1588705944031">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="903" height="164" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1588098883894" />
-    <state width="903" height="164" key="GridCell.Tab.0.center" timestamp="1588098883893">
+    <state width="598" height="165" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1588705944031" />
+    <state width="598" height="165" key="GridCell.Tab.0.center" timestamp="1588705944030">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="903" height="164" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1588098883893" />
-    <state width="903" height="164" key="GridCell.Tab.0.left" timestamp="1588098883892">
+    <state width="598" height="165" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1588705944030" />
+    <state width="598" height="165" key="GridCell.Tab.0.left" timestamp="1588705944030">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="903" height="164" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1588098883892" />
-    <state width="903" height="164" key="GridCell.Tab.0.right" timestamp="1588098883893">
+    <state width="598" height="165" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1588705944030" />
+    <state width="598" height="165" key="GridCell.Tab.0.right" timestamp="1588705944031">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state width="903" height="164" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1588098883893" />
+    <state width="598" height="165" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1588705944031" />
     <state x="12" y="33" key="SettingsEditor" timestamp="1588098876550">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state x="12" y="33" key="SettingsEditor/0.23.1280.732@0.23.1280.732" timestamp="1588098876550" />
-    <state x="187" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1588098913352">
+    <state x="187" y="249" key="com.intellij.ide.util.TipDialog" timestamp="1588714677932">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state x="187" y="249" key="com.intellij.ide.util.TipDialog/0.23.1280.732@0.23.1280.732" timestamp="1588098913352" />
+    <state x="187" y="249" key="com.intellij.ide.util.TipDialog/0.23.1280.732@0.23.1280.732" timestamp="1588714677932" />
+    <state x="625" y="79" width="670" height="676" key="search.everywhere.popup" timestamp="1588660205234">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="625" y="79" width="670" height="676" key="search.everywhere.popup/0.23.1280.732@0.23.1280.732" timestamp="1588660205234" />
   </component>
 </project>
